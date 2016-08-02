@@ -1,0 +1,11 @@
+Tue, 02 Aug 2016 17:40:02 +0300
+README.rdoc	Tue, 02 Aug 2016 11:10:34 +0300
+app/controllers/application_controller.rb	Tue, 02 Aug 2016 11:10:34 +0300
+app/controllers/movies_controller.rb	Tue, 02 Aug 2016 17:26:53 +0300
+app/controllers/reviews_controller.rb	Tue, 02 Aug 2016 16:43:21 +0300
+app/helpers/application_helper.rb	Tue, 02 Aug 2016 11:10:34 +0300
+app/helpers/movies_helper.rb	Tue, 02 Aug 2016 11:18:08 +0300
+app/helpers/reviews_helper.rb	Tue, 02 Aug 2016 14:54:27 +0300
+app/models/movie.rb	Tue, 02 Aug 2016 15:34:50 +0300
+app/models/review.rb	Tue, 02 Aug 2016 15:35:30 +0300
+app/models/user.rb	Tue, 02 Aug 2016 15:56:53 +0300
