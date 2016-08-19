@@ -2,7 +2,7 @@
 lock '3.6.0'
 
 set :application, 'movies'
-set :repo_url, 'git@github.com:ecuinner/movie_review.git'
+set :repo_url, 'git@github.com:ecusinner/movie_review.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
