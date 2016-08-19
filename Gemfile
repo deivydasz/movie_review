@@ -48,5 +48,12 @@ group :development do
   gem 'paperclip', '~> 5.0'
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
   gem 'searchkick', '~> 1.3', '>= 1.3.3'
+  gem 'capistrano', '~> 3.4'
+  gem 'capistrano-bundler', '~> 1.1', '>= 1.1.4'
+  gem 'capistrano-rails', '~> 1.1', '>= 1.1.7'
+  gem 'capistrano-rbenv', '~> 2.0', '>= 2.0.4'
+  gem 'capistrano-passenger'
+
+
 end
 
